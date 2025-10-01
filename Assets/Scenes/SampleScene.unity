@@ -12438,6 +12438,10 @@ MonoBehaviour:
   enemyGizmoColor: {r: 0.8867924, g: 0.23843002, b: 0.23843002, a: 1}
   radius: 1.8
   player: {fileID: 667655171}
+  drawName: 1
+  drawIcon: 1
+  drawRadius: 1
+  drawDistToPlayer: 1
 --- !u!65 &1119831587
 BoxCollider:
   m_ObjectHideFlags: 0
