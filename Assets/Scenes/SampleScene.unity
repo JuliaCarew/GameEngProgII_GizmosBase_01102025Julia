@@ -7570,6 +7570,9 @@ MonoBehaviour:
   range: 0.9
   icon: idle_icon.png
   spawnColor: {r: 0.4906105, g: 0.81656504, b: 0.990566, a: 1}
+  connectedWaypoints:
+  - {fileID: 1979772610}
+  - {fileID: 1989379693}
 --- !u!43 &664597720
 Mesh:
   m_ObjectHideFlags: 0
@@ -12396,6 +12399,9 @@ MonoBehaviour:
   range: 0.9
   icon: idle_icon.png
   spawnColor: {r: 0.4906105, g: 0.81656504, b: 0.990566, a: 1}
+  connectedWaypoints:
+  - {fileID: 1989379693}
+  - {fileID: 1979772610}
 --- !u!1 &1119831585
 GameObject:
   m_ObjectHideFlags: 0
@@ -19247,6 +19253,9 @@ MonoBehaviour:
   range: 0.9
   icon: idle_icon.png
   spawnColor: {r: 0.4906105, g: 0.81656504, b: 0.990566, a: 1}
+  connectedWaypoints:
+  - {fileID: 1082822917}
+  - {fileID: 635345745}
 --- !u!43 &1981623844
 Mesh:
   m_ObjectHideFlags: 0
@@ -19459,6 +19468,9 @@ MonoBehaviour:
   range: 0.9
   icon: idle_icon.png
   spawnColor: {r: 0.4906105, g: 0.81656504, b: 0.990566, a: 1}
+  connectedWaypoints:
+  - {fileID: 635345745}
+  - {fileID: 1082822917}
 --- !u!43 &1992165288
 Mesh:
   m_ObjectHideFlags: 0
