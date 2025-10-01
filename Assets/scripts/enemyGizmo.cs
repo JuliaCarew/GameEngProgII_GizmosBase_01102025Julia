@@ -12,6 +12,10 @@ public class enemyGizmo : MonoBehaviour
 
     private void OnDrawGizmosSelected()
     {
+        // draw name label
+        UnityEditor.Handles.Label(transform.position + Vector3.up * 1.5f, $"{gameObject.name}");
+
+        // draw icon
         Gizmos.color = enemyGizmoColor;
         Gizmos.DrawIcon(transform.position + Vector3.up * 2f, alertIcon, true);
 
